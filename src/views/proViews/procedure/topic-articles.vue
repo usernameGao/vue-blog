@@ -24,7 +24,6 @@
     </div>
   </div>
   <!-- :style="{'height': (index % 2 === 0) ? '100px' : '120px' }" -->
-  </div>
 </template>
 
 <script>
