@@ -1,6 +1,10 @@
 # blog
-
+在线预览https://usernamegao.github.io/vue-blog/
 > A Vue.js project
+
+vue2 + element-ui 一个上手vue的简单项目。
+
+一个类似博客系统。
 
 ## Build Setup
 
