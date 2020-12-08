@@ -2,9 +2,11 @@
 在线预览https://usernamegao.github.io/vue-blog/
 > A Vue.js project
 
-vue2 + element-ui 一个上手vue的简单项目。
+主要技术栈
+vue2全家桶(vuex + vue-router) + element-ui
 
-一个类似博客系统。
+ 一个上手vue的简单项目，一个类似博客系统。
+ 包含有组件通讯，echarts，富文本以及过渡动画等技术。
 
 ## Build Setup
 
