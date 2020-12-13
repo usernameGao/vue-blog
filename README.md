@@ -7,6 +7,7 @@ vue2全家桶(vuex + vue-router) + element-ui
 
  一个上手vue的简单项目，一个类似博客系统。
  包含有组件通讯，echarts，富文本以及过渡动画等技术。
+ 输入任意账号密码登录可以看到个人中心模块。
 
 ## Build Setup
 
